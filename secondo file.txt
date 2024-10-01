@@ -1,4 +1,0 @@
-anche questo file che contiene un conflitto deve andare in controllo di versione
-github gestione conflitto test
-testing questo file contiene un conflitto autofetch...
-nuova riga
